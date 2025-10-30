@@ -45,7 +45,7 @@ namespace EchoTspServer
 
             sender.StopSending();
             server.Stop();
-            Console.WriteLine("Sender stopped.");
+            Console.WriteLine("Sender stopped."); 
         }
 
         // метод для очікування натискання Q
